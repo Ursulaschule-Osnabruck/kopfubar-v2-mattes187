@@ -1,3 +1,34 @@
 body { 
-    background-color: lightblue;
+    background-color: white
+}
+
+h1 {
+    font-size: 25px;
+    color: #007e7e;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    font-size: 20px;
+    color:#007e7e;
+}
+
+p {
+    color:black;
+    font-size: 17px;
+}
+
+#garantie {
+    background-image: url(bilder/hintergrund.gif);
+    background-repeat: no-repeat;
+    background-color: #a7cece;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 25px;
+    margin: 10px;
+    color:white;
+    border:  1px dashed;
+    text-align: center; 
+
 }
