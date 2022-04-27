@@ -11,11 +11,13 @@ h1 {
 h2 {
     font-size: 20px;
     color:black;
+    text-align: center;
 }
 
 h3 {
     font-size: 20px;
     color: red;
+    text-align: center;
 }
 
 p {
@@ -46,8 +48,17 @@ p {
 
 #elexire {
     float:right;
-    width: 280px;
+    width: 260px;
     border: 2px solid; color:#007e7e;
     background-image: url(bilder/cocktail.gif);
-    background-repeat:no-repeat;
+    background-repeat:repeat-x;
+    text-align:center;
+    line-height: 15px;
+    margin-left: 20px;
+    padding: 7px;
+}
+
+body {
+    width: 1000px;
+    margin: auto;
 }
