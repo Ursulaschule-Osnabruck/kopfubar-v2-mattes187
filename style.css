@@ -27,13 +27,27 @@ p {
     background-image: url(bilder/hintergrund.gif);
     background-repeat: no-repeat;
     background-color: #a7cece;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-right: 15px;
-    padding-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 70px;
     margin: 10px;
+    margin-right: 300px;
     color:white;
     border:  1px dashed;
-    text-align: center; 
+    font-style: oblique;
 
+}
+
+#footer {
+    font-size: 13px;
+    text-align: center;
+}
+
+#elexire {
+    float:right;
+    width: 280px;
+    border: 2px solid; color:#007e7e;
+    background-image: url(bilder/cocktail.gif);
+    background-repeat:no-repeat;
 }
